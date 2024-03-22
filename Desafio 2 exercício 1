@@ -10,11 +10,17 @@
 </head>
 <body>
    
-    <h1 id="h1" style="color:lightcyan">Meu primeiro exemplo de CSS</h1>  
+    <h1 id="h1" >Meu primeiro exemplo de CSS</h1>  
  <br>
- <p id="p1">Este parágrafo está em sans serif.</p>
+ <p id="p1"><i>Este parágrafo está em itálico.</i></p>
  <br>
  <br>
 
 </body>
 </html>
+
+CSS ABAIXO:
+
+#h1{
+  color: lightblue;
+}
