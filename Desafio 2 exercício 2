@@ -13,3 +13,9 @@
     <p id="p2">Este parágrafo não é afetado pelo estilo</p>
 </body>
 </html>
+
+CSS ABAIXO: 
+
+#p1{
+  color: red; text-align: center;
+}
