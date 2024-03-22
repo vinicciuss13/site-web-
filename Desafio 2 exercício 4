@@ -12,3 +12,9 @@
     <p id="p1">Este parágrafo será vermelho e alinhado ao centro</p>
 </body>
 </html>
+
+CSS ABAIXO:
+
+#p1{
+ color: red; text-align: center;
+}
