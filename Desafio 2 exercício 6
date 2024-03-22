@@ -13,3 +13,12 @@
     <p id="p1">Um garoto de 10 anos de idade descobre um dispositivo mágico que pode transformá-lo em 10 heróis alienígenas diferentes, cada um com habilidades únicas. Com este novo poder, o menino ajuda as pessoas e combate malfeitores.</p>
 </body>
 </html>
+
+CSS ABAIXO:
+
+#h1{
+ color: red;
+}
+#p1{
+ color: green;
+}
