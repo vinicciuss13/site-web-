@@ -24,3 +24,27 @@
     <p id="p7">Cinza claro</p>
 </body>
 </html>
+
+CSS ABAIXO:
+
+#p1{
+  background-color: red;
+}
+#p2{
+  background-color: blue;
+}
+#p3{
+  background-color: green;
+}
+#p4{
+  background-color: grey;
+}
+#p5{
+  background-color: purple;
+}
+#p6{
+  background-color: violet;
+}
+#p7{
+  backgroung-color: lightgray
+}
