@@ -13,3 +13,16 @@
     <h1 id="h1-3">Hello world!</h1>
 </body>
 </html>
+
+CSS ABAIXO:
+
+#h1-1{
+   border-style: solid; border-color: orange;
+}
+
+#h1-2{
+    border-style: solid; border-color: blue;
+}
+#h1-3{
+    border-style: solid; border-color: violet;
+}
