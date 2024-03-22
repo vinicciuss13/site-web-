@@ -12,3 +12,12 @@
     <p id="p1">Parágrafo vermelho e alinhado ao centro</p>
 </body>
 </html>
+
+CSS ABAIXO:
+
+#h1{
+ color: red; text-align: center;
+}
+#p1{
+ color: red; text-align: center;
+}
