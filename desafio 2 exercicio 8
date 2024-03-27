@@ -41,3 +41,41 @@
 
 </body>
 </html>
+
+
+CSS ABAIXO:
+
+#p1{ 
+    border-style: dotted;
+}
+#p2{
+    border-style: dashed;
+}
+#p3{
+    border-style: solid;
+}
+#p4{
+    border-style: double;
+}
+#p5{
+    border-style: groove;
+}
+#p6{
+    border-style: ridge;
+}
+#p7{
+    border-style: inset;
+}
+#p8{
+    border-style: outset;
+}
+#p9{
+    border-style: none;
+}
+#p10{
+    border-style: hidden;
+}
+#p11{
+    border-style: dotted dashed solid;
+   
+}
