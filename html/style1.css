@@ -1,0 +1,47 @@
+.body2 {
+    font-family: Arial, sans-serif;
+    background-color: #afaaaade;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 50%;
+    margin: 50px auto;
+    background-color: rgba(197, 195, 195, 0.753);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.hmm {
+    text-align: center;
+    color: #333;
+}
+label {
+    font-size: 16px;
+    color: #555;
+    display: block;
+    margin-bottom: 8px;
+}
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+.message {
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
